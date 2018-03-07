@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	cout << "hello dhdhhd!" << endl;
+	cout << "hello d!" << endl;
 	return 0;
 }
